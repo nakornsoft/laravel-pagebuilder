@@ -5,7 +5,7 @@
 
 ## Installation
 
->`composer require jd-dotlogics/laravel-pagebuilder`
+>`composer require nakornsoft/laravel-pagebuilder`
 
 
 ## Publish files & migrate
