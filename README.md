@@ -14,3 +14,16 @@
 
 >`php artisan migrate`
 
+## Credits
+
+* [Nakornsoft](https://www.nakornsoft.com)
+* [All Contributors](https://github.com/nakornsoft/bitgrid/graphs/contributors)
+
+## Support Me
+
+* [Paypal](https://www.paypal.me/nakornsoft)
+
+
+## License
+
+MIT
