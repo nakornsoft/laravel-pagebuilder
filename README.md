@@ -25,4 +25,4 @@
 
 
 ## License
-[MIT](LICENSE.txt) © Nakornsoft
+[MIT](License.txt) © Nakornsoft
