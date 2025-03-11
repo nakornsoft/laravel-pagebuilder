@@ -1,6 +1,9 @@
 # Laravel Page Builder
 > A drag and drop pagebuilder to manage pages in any Laravel project.
 
+<img src="https://www.vvveb.com/img/dark-theme.png">
+<img src="https://www.vvveb.com/img/light-theme.png">
+
 
 ## Installation
 
